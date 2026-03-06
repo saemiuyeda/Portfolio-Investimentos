@@ -37,7 +37,7 @@ git clone https://github.com/saemiuyeda/Portfolio-Investimentos.git
 
 2. Acesse a pasta do projeto:
 ```bash
-cd portfolio-investimentos
+cd Portfolio-Investimentos
 ```
 
 3. Execute o programa:
